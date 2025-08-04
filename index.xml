@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free HRT Kitchen on My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Free HRT Kitchen on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>&lt;h1&gt;Contact us&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;We currently have two ways to get in contact with our group. If you do not&#xA;have access to one of these ways, we apologize, and recommend finding someone&#xA;who does. These ways were chosen to protect the folks providing resources as&#xA;well as those receiving it.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;mt-4&#34;&gt;Signal&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;The best way to get in contact with us is over Signal. Signal is a secure&#xA;messaging app which keeps the identities of those using it secret and also&#xA;protects the contents of the messages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Mission</title>
+      <link>https://example.org/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/mission/</guid>
+      <description>&lt;h1&gt;Our mission&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;It is our belief that hormone therapy for trans folks is necessary for&#xA;survival and well-being. At the same time, access to hormones is made&#xA;complicated by the current state of the medical establishment and pharmaceutical&#xA;industry. Despite these barriers to access, the hormone therapy itself is very&#xA;cheap, as hormones are relatively common and simple compounds.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;As such, our mission is: &lt;u&gt;To provide free access to hormone therapy to any&#xA;trans person who wants or needs it.&lt;/u&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1&gt;About us&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;We are a small (for now) group of queer and trans folks living in the SF Bay&#xA;Area. We started our group in early 2025 in response to the attacks on the lives&#xA;of trans folks. Through research and our own experiences, we decided that&#xA;providing every trans person with free access to hormones was doable. Since&#xA;then, we have been working to expand our reach and accomplish our mission.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://example.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/resources/</guid>
+      <description>&lt;h1&gt;Resources&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://diyhrt.info/&#34;&gt;The DIY HRT Directory&lt;/a&gt; provides fantastic&#xA;resources for both Transmasc and Transfem folks who are looking to understand&#xA;the different forms of HRT and to safely use them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://nasen.org/&#34;&gt;The North American Syringe Exchange Network&#xA;(NASEN)&lt;/a&gt; provides a directory of needle exchange programs which can help&#xA;folks access free needles for performing their hormone injections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support Us</title>
+      <link>https://example.org/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/support/</guid>
+      <description>&lt;h1&gt;Support our work&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;Right now, we are looking for several forms of support:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have extra hormone supplies? We will gladly take them and redistribute them&#xA;to those in need. &lt;a href=&#34;https://example.org/contact/&#34;&gt;Contact us&lt;/a&gt; to find a way to meet.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Are you associated with an organization which interacts with trans folks in&#xA;need? &lt;a href=&#34;https://example.org/contact/&#34;&gt;Contact us&lt;/a&gt; and we can figure out how to work&#xA;together.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Want to directly fund our work? We currently accept cash donations.  &lt;a&#xA;href=&#34;https://example.org/contact/&#34;&gt;Contact us&lt;/a&gt; to find a way to meet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
